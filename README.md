@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [folio.me/kaxun](folio.me/kaxun)
 
-- 📝 I regularly write articles on [blogspot/kasun](blogspot/kasun)
+- 📝 I regularly write articles on [(https://medium.com/@kaxun)]((https://medium.com/@kaxun))
 
 - 💬 Ask me about **Frontend development, Backend development, WordPress development, Project management**
 
