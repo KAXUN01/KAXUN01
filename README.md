@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Information and Communication Technology in University of Sri Jayewardenepura, Trainee Full Stack Developer course in University of Moratuwa**
 
-- 👨‍💻 All of my projects are available at [folio.me/kaxun](folio.me/kaxun)
+- 👨‍💻 All of my projects are available at [folio.me/kaxun](https://portfolio-kaxun.netlify.app/)
 
 - 📝 I regularly write articles on https://medium.com/@kaxun
 
