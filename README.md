@@ -27,7 +27,7 @@ Hi there! I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Develo
 ---
 
 ### 💼 My Professional Journey
-- **Full Stack Development**: Crafting robust applications using **React**, **Node.js**, and **MongoDB**.
+- **Full Stack Development**: Crafting robust applications using **Next.js**, **Node.js**, and **MongoDB**.
 - **DevOps Practices**: Automating workflows, deploying solutions on **AWS**, and working with **Docker**, **Kubernetes**, and **GitHub Actions**.
 - **Design & User Experience**: Creating user-centered designs focusing on simplicity and clarity.
 
