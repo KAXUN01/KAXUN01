@@ -110,16 +110,9 @@ Hi there! I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Develo
 - **Email**: [kasunmadhushanw@gmail.com](mailto:kasunmadhushanw@gmail.com)
 - **LinkedIn**: [Kasun Madhushan](https://www.linkedin.com/in/KAXUN01)
 
----
+<img src="https://raw.githubusercontent.com/KAXUN01/KAXUN01/output/snake.svg" alt="Snake animation" />
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KAXUN01&style=for-the-badge&color=orange" alt="Profile Views" />
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/KAXUN01/KAXUN01/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KAXUN01/count.svg?"  />
 </div>
