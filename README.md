@@ -17,6 +17,7 @@ Hi there! I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Develo
 - **Design & User Experience**: Creating user-centered designs focusing on simplicity and clarity.
 
 ---
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -79,6 +80,7 @@ Hi there! I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Develo
   <img src="https://github-readme-stats.vercel.app/api?username=KAXUN01&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="Kasun's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAXUN01&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+
 ---
 
 ### ✨ Fun Facts
