@@ -7,7 +7,7 @@
 </div>
 
 ### 🌟 Welcome to My Profile!
-Hi there! I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Developer and DevOps Enthusiast. I specialize in designing user-friendly, visually appealing interfaces and building scalable web applications. With over three years of experience in UI/UX design, I thrive on crafting solutions that blend functionality with creativity.
+Hi there! I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Developer and DevOps Enthusiast. I specialize in designing user-friendly, visually appealing interfaces and building scalable web applications. I thrive on crafting solutions that blend functionality with creativity.
 
 ---
 
@@ -66,7 +66,7 @@ Hi there! I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Develo
 
 ### ✉️ Let's Connect!
 - **Email**: [kasunmadhushanw@gmail.com](mailto:kasunmadhushanw@gmail.com)
-- **LinkedIn**: [Kasun Madhushan](https://www.linkedin.com/in/kasunmadhushan)
+- **LinkedIn**: [Kasun Madhushan](https://www.linkedin.com/in/KAXUN01)
 
 ---
 
