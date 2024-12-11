@@ -74,6 +74,7 @@ Hi there! I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Develo
 ---
 
 ### 📊 GitHub Statistics
+<div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KAXUN01&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="Kasun's GitHub Stats" />
 </div>
@@ -81,7 +82,7 @@ Hi there! I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Develo
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAXUN01&layout=compact&theme=dark" alt="Top Languages" />
 </div>
-
+</div>
 ---
 
 ### ✨ Fun Facts
