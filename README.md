@@ -6,6 +6,12 @@
   </picture>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+</div>
+
 ### 🌟 Welcome to My Profile!
 Hi there! I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Developer and DevOps Enthusiast. I specialize in designing user-friendly, visually appealing interfaces and building scalable web applications. I thrive on crafting solutions that blend functionality with creativity.
 
