@@ -22,7 +22,7 @@
 </div>
 
 ### 🌟 Welcome to My Profile!
-Hi there! I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Developer and DevOps Enthusiast. I specialize in designing user-friendly, visually appealing interfaces and building scalable web applications. I thrive on crafting solutions that blend functionality with creativity.
+I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Developer and DevOps Enthusiast. I specialize in designing user-friendly, visually appealing interfaces and building scalable web applications. I thrive on crafting solutions that blend functionality with creativity.
 
 ---
 
