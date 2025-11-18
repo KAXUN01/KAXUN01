@@ -118,6 +118,6 @@ I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Developer and De
 </div>
 
 
-<img src="https://ghchart.rshah.org/KAXUN01" alt="Contribution chart" />
+
 
 
