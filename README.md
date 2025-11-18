@@ -118,5 +118,6 @@ I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Developer and De
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAXUN01&layout=compact&theme=transparent)
+<img src="https://ghchart.rshah.org/KAXUN01" alt="Contribution chart" />
+
 
