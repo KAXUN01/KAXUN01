@@ -116,3 +116,6 @@ I'm **Kasun Madhushan Wickramasinghe**, a passionate Full Stack Developer and De
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KAXUN01&style=for-the-badge&color=orange" alt="Profile Views" />
 </div>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAXUN01&show_icons=true&theme=transparent)
